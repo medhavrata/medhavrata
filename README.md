@@ -1,7 +1,7 @@
 ### Hi there, I am Medha 👋
 
-I'am currently working on Google Cloud DevOps to deploy some applications.
-I am also working on some general automation activities using Python/Bash/Terraform.
+I'am currently working on AWS + Terraform to deploy some applications.
+I am also working on some general automation activities using Python/Bash.
 
 I am looking to collaborate on Cloud.
 
